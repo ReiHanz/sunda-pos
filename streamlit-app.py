@@ -1,6 +1,6 @@
 # file: pos_app.py
 import streamlit as st
-import nltk
+# import nltk
 import pandas as pd
 import os
 
